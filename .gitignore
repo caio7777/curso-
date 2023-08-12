@@ -20,3 +20,8 @@ instalaçao do git no windows
                                                        ETAPA 2:  comando uteis
 caso em algum momento voce adcione uma origem e depois queira remove-la basta usar o 
 comando: GIT REMOTE RM + NOME DA ORIGEM A SER REMOVIDA 
+
+obs: o comando "git diff se usa quando os arquvos saem do:
+
+( workdiretion ) e vai => para o => ( estaging area ) e por fim os 
+arquivos são => ( commitados )
