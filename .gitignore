@@ -1,0 +1,22 @@
+link para instruçoes do git
+
+https://www.atlassian.com/br/git/tutorials/what-is-git
+
+                       ETAPA 1 :  INSTALAÇAO E CONFIGURAÇAO DE AMBIENTE
+
+MKDIR + NOME DA PASTA => cria pasta no diretorio atual
+MV + ENDEREÇO ANTIGO + ENDEREÇO NOVO
+ este comando serve tanto para renomear uma pasta ou ate mesmo para renomear a mesma.
+
+instalaçao do git no windows
+=> instalar git no windows é muito facil
+=> acessar o site: https://git-scm.com/downloads
+=> fazer o download do executavel
+ => seguir as instruçoes
+
+1=> run
+2=> marcar a primeira opçao que fala sobre pull e merge
+-------------------------------------------------------------------------------------------------------------------------
+                                                       ETAPA 2:  comando uteis
+caso em algum momento voce adcione uma origem e depois queira remove-la basta usar o 
+comando: GIT REMOTE RM + NOME DA ORIGEM A SER REMOVIDA 
