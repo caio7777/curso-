@@ -9,3 +9,5 @@ ele seja "trakeado" é preciso passa-lo para a ( staging area ) isso significa q
 as mudanças estão preparadas para serem commitadas,sendo assim efetuado o commit 
 sua area de trabalho estará limpa novamente e os arquivos tera o "estado" de unmodified
 tendo novamente a possibilidade de receber  novas modicaçoes!
+
+alterando o arquivo pelo github para fazer um pull pelo git
