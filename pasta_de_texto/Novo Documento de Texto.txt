@@ -1,1 +1,11 @@
 os outros arquivos nao tem...
+lembrete:
+
+imagine que eu tenho minha arvore de trabalho limpa, ou seja foi tudo 
+commitado e enviado para o repositorio remoto.
+dai eu decido fazer uma alteraçao, ok...
+ateraçao feita, o novo estado deste arquivo sera ( modified ) para que 
+ele seja "trakeado" é preciso passa-lo para a ( staging area ) isso significa que 
+as mudanças estão preparadas para serem commitadas,sendo assim efetuado o commit 
+sua area de trabalho estará limpa novamente e os arquivos tera o "estado" de unmodified
+tendo novamente a possibilidade de receber  novas modicaçoes!
