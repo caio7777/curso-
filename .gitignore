@@ -35,3 +35,8 @@ descobri que para ver o conteudo de um arquivo text
 no ( git ) bash ou um terminal linux o comando é:
 
 cat nome do arquivo.txt
+
+obs for git: este comando exclui uma branch local => git branch -D nome da branch
+
+este outro comando => git push origin --delete new
+deleta a branch no repositorio remoto!
