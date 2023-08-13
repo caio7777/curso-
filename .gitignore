@@ -28,3 +28,10 @@ arquivos são => ( commitados )
 
 alterando arquivo para que almente a quantidade de arquivo 
 na area de arquivos preparados
+
+novo aprendizado:
+
+descobri que para ver o conteudo de um arquivo text 
+no ( git ) bash ou um terminal linux o comando é:
+
+cat nome do arquivo.txt
