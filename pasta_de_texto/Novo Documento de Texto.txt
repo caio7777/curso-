@@ -13,3 +13,4 @@ tendo novamente a possibilidade de receber  novas modicaçoes!
 alterando o arquivo pelo github para fazer um pull pelo git
 
 tirando arquivo do unmodified para modified
+fazendo o git pull
