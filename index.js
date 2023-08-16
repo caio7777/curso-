@@ -3,3 +3,4 @@ function showName(nome,saudadaçao = 'ola voce vai se tornar um grande programad
 }
 
 showName("caio")
+console.log(caio)
