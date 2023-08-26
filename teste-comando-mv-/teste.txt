@@ -1,0 +1,14 @@
+testando o checkout + <<files>>
+
+caio add obs -m "este comando desfaz todas as alteraçoes feitas antes de um commit"
+fazendo alteraçoes remotas para treinar o git pull.
+gerando conflito que deve ser resolvido no editor vscode.
+
+----------------------------------------------------------------------------------------------------------------------
+
+Claro! O comando "git commit -a -m" no Git é usado para criar um novo commit que inclui automaticamente todas as alterações nos arquivos que já estão sob controle de versão, e também adiciona uma mensagem de commit. Aqui está o que cada parte do comando faz:
+
+O "git commit" é usado para criar um novo ponto na história do repositório Git, registrando as alterações feitas nos arquivos.
+O "-a" é uma opção que significa "all" (todos). Isso diz ao Git para incluir automaticamente todas as alterações nos arquivos que foram modificados e estão sob controle de versão no commit. No entanto, ele não adicionará novos arquivos que ainda não foram rastreados pelo Git.
+O "-m" é outra opção que significa "message" (mensagem). Ela é seguida por um texto entre aspas, que é a mensagem de commit. Essa mensagem deve ser uma breve descrição das mudanças que estão sendo realizadas no commit. É uma boa prática adicionar mensagens significativas para que outras pessoas (ou você mesmo no futuro) possam entender facilmente o propósito das mudanças feitas nesse commit.
+Portanto, quando você executa o comando "git commit -a -m", o Git criará um novo commit com todas as alterações nos arquivos já rastreados e incluirá a mensagem que você especificou, permitindo que você documente o que foi feito no commit de forma clara.
